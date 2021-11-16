@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+fieldset
+{
+ 
+  background-color:	#E0FFFF;
+  width:400px;
+  height:450px;
+}
+
+.design input {
+  border: 1px solid #ccc;
+  background: #F0FFFF;
+  border-radius: 15px;
+}
+
+.design textarea {
+  border: 1px solid #ccc;
+  padding: 3px;
+  width: 300px;
+  height: 100px;
+  background: #F0FFFF;
+  border-radius: 15px;
+}
+
+button {
+  height: 32px;
+  width: 100px;
+  font: bold 12px arial, sans-serif;
+  text-shadow:none;
+  color: black;
+  background: #B0E0E6;
+  border-radius: 20px;
+}
+
+label {
+  font-family: Times New Roman, helvetica, sans-serif;
+  font-size: 18px;
+
+}
+
+li {
+  font-family: Times New Roman, helvetica, sans-serif;
+  font-size: 16px;
+}
+
