@@ -36,6 +36,7 @@ const Quarto = () => {
            <br/>
            <Link to="/terceira"><button> Anterior </button></Link>
            <Link to="/"><button onClick={limpar}>Nova Pesquisa</button></Link>
+           <Link to="/api"><button onClick={limpar}>API Música</button></Link>
            </fieldset>
         </div>
 
